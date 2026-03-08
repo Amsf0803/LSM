@@ -1,2 +1,2 @@
 # LSM
-Lector de Senas Mexicanas con Vision Computacional
+Lector de Señas Mexicanas con Vision Computacional
